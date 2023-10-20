@@ -1,1 +1,3 @@
 # Credit-card-fraud-detection-project-
+Credit card fraud detection is the process of identifying and preventing unauthorized or fraudulent transactions made using credit or debit cards. The primary goal of credit card fraud detection is to protect both cardholders and financial institutions from financial losses and to maintain the integrity of the payment system
+Credit card fraud detection is an ongoing process that evolves as fraudsters develop new techniques. Financial institutions and card issuers are constantly improving their fraud detection systems to stay ahead of these threats and protect their customers from financial losses and identity theft.
